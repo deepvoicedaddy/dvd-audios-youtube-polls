@@ -1,0 +1,446 @@
+{
+  "polls": [
+    {
+      "pollQuestion": "How do you get your way, darling? 😘",
+      "totalVotes": 155,
+      "answers": [
+        {
+          "answerText": "The puppy eyes 🥺",
+          "percentage": 64,
+          "voteCount": 99
+        },
+        {
+          "answerText": "A little bribery 🍪",
+          "percentage": 15,
+          "voteCount": 23
+        },
+        {
+          "answerText": "Sweet talk & charm 😏",
+          "percentage": 15,
+          "voteCount": 23
+        },
+        {
+          "answerText": "I just take what I want 😈",
+          "percentage": 6,
+          "voteCount": 9
+        }
+      ]
+    },
+    {
+      "pollQuestion": "After everything, how do you move forward?",
+      "totalVotes": 136,
+      "answers": [
+        {
+          "answerText": "Bury the past—move on, don’t look back 🚶‍♀️",
+          "percentage": 7,
+          "voteCount": 9
+        },
+        {
+          "answerText": "Face the ghosts—healing takes time 🖤",
+          "percentage": 11,
+          "voteCount": 14
+        },
+        {
+          "answerText": "Find strength in love—together, always ❤️",
+          "percentage": 73,
+          "voteCount": 99
+        },
+        {
+          "answerText": "Start fresh—a new life, a new beginning ✨",
+          "percentage": 9,
+          "voteCount": 12
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If the law turned against you, what’s your move?",
+      "totalVotes": 177,
+      "answers": [
+        {
+          "answerText": "Erase yourself—new name, new life 🏙️",
+          "percentage": 15,
+          "voteCount": 26
+        },
+        {
+          "answerText": "Outplay them—use their own system 🧠",
+          "percentage": 30,
+          "voteCount": 53
+        },
+        {
+          "answerText": "Fight back—no fear, no surrender 🔥",
+          "percentage": 14,
+          "voteCount": 24
+        },
+        {
+          "answerText": "Find an ally—someone with power 🤝",
+          "percentage": 41,
+          "voteCount": 72
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If you summoned an incubus, what would you do? 😈🔥",
+      "totalVotes": 206,
+      "answers": [
+        {
+          "answerText": "Netflix & Cuddle 🛋️",
+          "percentage": 71,
+          "voteCount": 146
+        },
+        {
+          "answerText": "Dark Rituals & Chaos 🔥",
+          "percentage": 8,
+          "voteCount": 16
+        },
+        {
+          "answerText": "Ask for Life Advice 🤔",
+          "percentage": 6,
+          "voteCount": 12
+        },
+        {
+          "answerText": "Absolutely Unholy Things 😏",
+          "percentage": 15,
+          "voteCount": 30
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If you were in danger, how would you want me to save you? 🖤🚔",
+      "totalVotes": 216,
+      "answers": [
+        {
+          "answerText": "Kick down the door 🚪🔥",
+          "percentage": 23,
+          "voteCount": 49
+        },
+        {
+          "answerText": "Strategic rescue 🎯",
+          "percentage": 56,
+          "voteCount": 120
+        },
+        {
+          "answerText": "Undercover operation 🕶️",
+          "percentage": 11,
+          "voteCount": 23
+        },
+        {
+          "answerText": "You’ll save yourself 💪",
+          "percentage": 10,
+          "voteCount": 21
+        }
+      ]
+    },
+    {
+      "pollQuestion": "How would you react if your best friend confessed their love for you? ❤️😳",
+      "totalVotes": 161,
+      "answers": [
+        {
+          "answerText": "Melt into a puddle 🫠",
+          "percentage": 60,
+          "voteCount": 96
+        },
+        {
+          "answerText": "Panic internally 😳",
+          "percentage": 18,
+          "voteCount": 28
+        },
+        {
+          "answerText": "Laugh it off 😂",
+          "percentage": 5,
+          "voteCount": 8
+        },
+        {
+          "answerText": "Kiss them instantly 😘",
+          "percentage": 17,
+          "voteCount": 27
+        }
+      ]
+    },
+    {
+      "pollQuestion": "When life gets complicated, how do you handle it? ⚔️💘",
+      "totalVotes": 149,
+      "answers": [
+        {
+          "answerText": "Follow your heart ❤️",
+          "percentage": 23,
+          "voteCount": 34
+        },
+        {
+          "answerText": "Stay loyal 👑",
+          "percentage": 45,
+          "voteCount": 67
+        },
+        {
+          "answerText": "Take the risk 🔥",
+          "percentage": 11,
+          "voteCount": 16
+        },
+        {
+          "answerText": "Play it smart 🧠",
+          "percentage": 21,
+          "voteCount": 31
+        }
+      ]
+    },
+    {
+      "pollQuestion": "What’s your favorite way to relax at night? 🌙💤",
+      "totalVotes": 251,
+      "answers": [
+        {
+          "answerText": "A bedtime story 📖",
+          "percentage": 20,
+          "voteCount": 50
+        },
+        {
+          "answerText": "Gentle whispers 🛌",
+          "percentage": 10,
+          "voteCount": 25
+        },
+        {
+          "answerText": "Deep breathing 🧘‍♀️",
+          "percentage": 3,
+          "voteCount": 7
+        },
+        {
+          "answerText": "Cuddles 🤗",
+          "percentage": 67,
+          "voteCount": 168
+        }
+      ]
+    },
+    {
+      "pollQuestion": "What’s your ultimate wedding escape? 💒✨",
+      "totalVotes": 190,
+      "answers": [
+        {
+          "answerText": "Sneaking off to a treehouse 🌲",
+          "percentage": 27,
+          "voteCount": 51
+        },
+        {
+          "answerText": "Dancing under the stars ✨",
+          "percentage": 55,
+          "voteCount": 104
+        },
+        {
+          "answerText": "A quiet chat over cake 🍰",
+          "percentage": 7,
+          "voteCount": 13
+        },
+        {
+          "answerText": "Leaving early for takeout 🍔",
+          "percentage": 11,
+          "voteCount": 20
+        }
+      ]
+    },
+    {
+      "pollQuestion": "What’s your favorite part of a spicy confession? 🔥",
+      "totalVotes": 235,
+      "answers": [
+        {
+          "answerText": "Playful teasing 😏",
+          "percentage": 18,
+          "voteCount": 42
+        },
+        {
+          "answerText": "A heartfelt moment ❤️",
+          "percentage": 17,
+          "voteCount": 39
+        },
+        {
+          "answerText": "A stolen kiss 😘",
+          "percentage": 15,
+          "voteCount": 35
+        },
+        {
+          "answerText": "Turning up the heat 🔥",
+          "percentage": 49,
+          "voteCount": 115
+        }
+      ]
+    },
+    {
+      "pollQuestion": "What’s your vibe when starting fresh in a new place? 🌟✨",
+      "totalVotes": 139,
+      "answers": [
+        {
+          "answerText": "The planner: organizing every detail 📋",
+          "percentage": 8,
+          "voteCount": 11
+        },
+        {
+          "answerText": "The adventurer: exploring the city 🌆",
+          "percentage": 19,
+          "voteCount": 26
+        },
+        {
+          "answerText": "The comfort-seeker: finding cozy spots ☕",
+          "percentage": 50,
+          "voteCount": 69
+        },
+        {
+          "answerText": "The observer: soaking it all in quietly 🖤",
+          "percentage": 23,
+          "voteCount": 31
+        }
+      ]
+    },
+    {
+      "pollQuestion": "Who’s your perfect dinner date? 🍷✨",
+      "totalVotes": 253,
+      "answers": [
+        {
+          "answerText": "A mysterious stranger 🕶️",
+          "percentage": 8,
+          "voteCount": 20
+        },
+        {
+          "answerText": "A cheeky bad boy 😏",
+          "percentage": 33,
+          "voteCount": 83
+        },
+        {
+          "answerText": "A sweet boyfriend 💖",
+          "percentage": 38,
+          "voteCount": 96
+        },
+        {
+          "answerText": "A brooding anti-hero 🖤",
+          "percentage": 21,
+          "voteCount": 53
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If you were the princess caught in this royal mess, what’s your next move? 👑🔥",
+      "totalVotes": 178,
+      "answers": [
+        {
+          "answerText": "Stand by the prince and fight",
+          "percentage": 68,
+          "voteCount": 121
+        },
+        {
+          "answerText": "Spy on the king in secret",
+          "percentage": 15,
+          "voteCount": 26
+        },
+        {
+          "answerText": "Escape and start anew",
+          "percentage": 8,
+          "voteCount": 14
+        },
+        {
+          "answerText": "Surrender for love",
+          "percentage": 9,
+          "voteCount": 16
+        }
+      ]
+    },
+    {
+      "pollQuestion": "Which innocent moment can get you into the most trouble? 😏",
+      "totalVotes": 188,
+      "answers": [
+        {
+          "answerText": "Locking eyes a little too long 👀",
+          "percentage": 21,
+          "voteCount": 39
+        },
+        {
+          "answerText": "Brushing hands “by accident” 🤭",
+          "percentage": 17,
+          "voteCount": 31
+        },
+        {
+          "answerText": "A lingering goodbye hug ❤️",
+          "percentage": 53,
+          "voteCount": 99
+        },
+        {
+          "answerText": "Sharing a bite of something sweet 🍫🔥",
+          "percentage": 9,
+          "voteCount": 16
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If you were stuck in a time loop, what would you do? ⏳✨",
+      "totalVotes": 151,
+      "answers": [
+        {
+          "answerText": "Confess my love 💖",
+          "percentage": 25,
+          "voteCount": 37
+        },
+        {
+          "answerText": "Cause a little chaos 😈",
+          "percentage": 15,
+          "voteCount": 22
+        },
+        {
+          "answerText": "Try to break the loop 🔄",
+          "percentage": 53,
+          "voteCount": 80
+        },
+        {
+          "answerText": "Just enjoy the ride 😏",
+          "percentage": 8,
+          "voteCount": 12
+        }
+      ]
+    },
+    {
+      "pollQuestion": "Which winter date idea gives you butterflies? ⛸️❄️",
+      "totalVotes": 198,
+      "answers": [
+        {
+          "answerText": "Learning to skate hand-in-hand ⛸️",
+          "percentage": 49,
+          "voteCount": 97
+        },
+        {
+          "answerText": "Cuddling by a cozy fireplace 🔥",
+          "percentage": 29,
+          "voteCount": 57
+        },
+        {
+          "answerText": "Sipping cocoa under the stars 🍫✨",
+          "percentage": 7,
+          "voteCount": 13
+        },
+        {
+          "answerText": "A playful snowball fight together ❄️",
+          "percentage": 15,
+          "voteCount": 29
+        }
+      ]
+    },
+    {
+      "pollQuestion": "If you were a dessert, what kind would you be? 🍰✨",
+      "totalVotes": 93,
+      "answers": [
+        {
+          "answerText": "🍯 Sweet Honey Glow-Up",
+          "percentage": 8,
+          "voteCount": 7
+        },
+        {
+          "answerText": "🍋 Zesty Little Lemon Queen",
+          "percentage": 15,
+          "voteCount": 13
+        },
+        {
+          "answerText": "🍫 Lava Cake with a Dark Side",
+          "percentage": 49,
+          "voteCount": 45
+        },
+        {
+          "answerText": "🍓 Strawberry Dream Babe",
+          "percentage": 28,
+          "voteCount": 26
+        }
+      ]
+    }
+  ]
+}
